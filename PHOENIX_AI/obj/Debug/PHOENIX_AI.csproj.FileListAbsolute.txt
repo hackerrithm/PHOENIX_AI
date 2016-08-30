@@ -1,0 +1,12 @@
+c:\users\kemar\documents\visual studio 2015\Projects\PHOENIX_AI\PHOENIX_AI\bin\Debug\PHOENIX_AI.exe.config
+c:\users\kemar\documents\visual studio 2015\Projects\PHOENIX_AI\PHOENIX_AI\bin\Debug\PHOENIX_AI.exe
+c:\users\kemar\documents\visual studio 2015\Projects\PHOENIX_AI\PHOENIX_AI\bin\Debug\PHOENIX_AI.pdb
+c:\users\kemar\documents\visual studio 2015\Projects\PHOENIX_AI\PHOENIX_AI\obj\Debug\PHOENIX_AI.csprojResolveAssemblyReference.cache
+c:\users\kemar\documents\visual studio 2015\Projects\PHOENIX_AI\PHOENIX_AI\obj\Debug\PHOENIX_AI.exe
+c:\users\kemar\documents\visual studio 2015\Projects\PHOENIX_AI\PHOENIX_AI\obj\Debug\PHOENIX_AI.pdb
+C:\Users\Mavern\Documents\Visual studio projects\PHOENIX_AI\PHOENIX_AI\bin\Debug\PHOENIX_AI.exe.config
+C:\Users\Mavern\Documents\Visual studio projects\PHOENIX_AI\PHOENIX_AI\obj\Debug\PHOENIX_AI.exe
+C:\Users\Mavern\Documents\Visual studio projects\PHOENIX_AI\PHOENIX_AI\obj\Debug\PHOENIX_AI.pdb
+C:\Users\Mavern\Documents\Visual studio projects\PHOENIX_AI\PHOENIX_AI\bin\Debug\PHOENIX_AI.exe
+C:\Users\Mavern\Documents\Visual studio projects\PHOENIX_AI\PHOENIX_AI\bin\Debug\PHOENIX_AI.pdb
+C:\Users\Mavern\Documents\Visual studio projects\PHOENIX_AI\PHOENIX_AI\obj\Debug\PHOENIX_AI.csprojResolveAssemblyReference.cache
